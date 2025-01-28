@@ -9,7 +9,7 @@ const TermsAndConditions: React.FC = () => {
       <main>
         <section>
           <p>
-            本利用規約は、隠Studyアプリ（以下「本アプリケーション」）に適用されます。本アプリケーションは、
+            本利用規約は、隠Study（以下「本アプリケーション」）に適用されます。本アプリケーションは、
             Subaru Nakano（以下「サービス提供者」）によって無料サービスとして作成されました。
           </p>
         </section>
