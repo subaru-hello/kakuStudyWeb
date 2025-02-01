@@ -1,4 +1,6 @@
-const Support = () => {
+import React from 'react';
+
+const Support: React.FC = () => {
   return (
     <div style={{ padding: '2em', fontFamily: 'Arial, sans-serif' }}>
       <h1>サポート</h1>
