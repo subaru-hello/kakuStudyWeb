@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Home from './components/pages/🏠';
-import PrivacyPolicy from './components/pages/㊙️';
-import TermsAndConditions from './components/pages/👤';
-import Support from './components/pages/🛠️';
+import Home from './components/pages/Home.tsx';
+import PrivacyPolicy from './components/pages/PrivacyPolicy.tsx';
+import TermsAndConditions from './components/pages/TermsAndConditions.tsx';
+import Support from './components/pages/Support.tsx';
 
 const PATH = {
   HOME: "",
