@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './components/pages/🏠';
 import PrivacyPolicy from './components/pages/㊙️';
 import TermsAndConditions from './components/pages/👤';
-import Support from './components/pages/🛠️'; // サポートページを追加
+import Support from './components/pages/🛠️';
 
 const PATH = {
   HOME: "",
